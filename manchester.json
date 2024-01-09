@@ -1,0 +1,91 @@
+{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe70ce"
+    },
+    "datetime":"13/10/2004 07:19",
+    "city":"manchester (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"fireball",
+    "duration_seconds":30,
+    "duration_hours_min":"30sec",
+    "comments":"loud sonic like bang&#44 /two fire balls /comets  ((NUFORC Note:  Possible&#44 though unconfirmed&#44 daytime meteor??  PD))",
+    "date posted":"27/10/2004",
+    "latitude":53.5,
+    "longitude":-2.216667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe7651"
+    },
+    "datetime":"18/10/2002 20:35",
+    "city":"manchester (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"triangle",
+    "duration_seconds":5,
+    "duration_hours_min":"5 seconds",
+    "comments":"Saw a triangular object at night with 3 red lights on the corners&#44 flashing in a regular pattern. The lights appeared to be right up to",
+    "date posted":"28/10/2002",
+    "latitude":53.5,
+    "longitude":-2.216667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe7695"
+    },
+    "datetime":"18/10/2007 23:45",
+    "city":"manchester (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"sphere",
+    "duration_seconds":60,
+    "duration_hours_min":"1min",
+    "comments":"three silent white balls in a triangle formation floating through the sky.",
+    "date posted":"28/11/2007",
+    "latitude":53.5,
+    "longitude":-2.216667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe7c6e"
+    },
+    "datetime":"24/10/2005 22:00",
+    "city":"manchester (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"formation",
+    "duration_seconds":900,
+    "duration_hours_min":"15 minutes",
+    "comments":"triangle shap pattern over my town of swinton manchester england.",
+    "date posted":"03/11/2005",
+    "latitude":53.5,
+    "longitude":-2.216667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8229"
+    },
+    "datetime":"31/10/2004 00:04",
+    "city":"manchester (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"triangle",
+    "duration_seconds":180,
+    "duration_hours_min":"3 mins",
+    "comments":"unknown flying object saw by myself and 2 friends it fell from the sky with lights flickering green triangle shaped",
+    "date posted":"02/11/2004",
+    "latitude":53.5,
+    "longitude":-2.216667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe82bd"
+    },
+    "datetime":"31/10/2006 21:59",
+    "city":"manchester (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"diamond",
+    "duration_seconds":600,
+    "duration_hours_min":"10-mins",
+    "comments":"u.f.o grounds planes over manchester.",
+    "date posted":"08/03/2007",
+    "latitude":53.5,
+    "longitude":-2.216667
+ }

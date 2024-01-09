@@ -1,0 +1,451 @@
+{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6be9"
+    },
+    "datetime":"10/10/1994 23:00",
+    "city":"toronto (greater toronto area) (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"sphere",
+    "duration_seconds":3600,
+    "duration_hours_min":"~1 hour",
+    "comments":"Large rusty sphere",
+    "date posted":"03/07/2013",
+    "latitude":43.666667,
+    "longitude":-79.416667
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6c0c"
+    },
+    "datetime":"10/10/1998 22:30",
+    "city":"st. john&#39s (canada)",
+    "state":"nf",
+    "country":"ca",
+    "shape":"egg",
+    "duration_seconds":7200,
+    "duration_hours_min":"2 hours",
+    "comments":"Started off as 3 points of intense yellow light in triangle formation - then grew larger - it becage a single egg shape - VERY bright.",
+    "date posted":"02/12/2000",
+    "latitude":47.55,
+    "longitude":-52.666667
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6c10"
+    },
+    "datetime":"10/10/2000 07:30",
+    "city":"victoria (canada)",
+    "state":"bc",
+    "country":"ca",
+    "shape":"cylinder",
+    "duration_seconds":30,
+    "duration_hours_min":"30seconds",
+    "comments":"Smooth Shiny Cylinder",
+    "date posted":"02/12/2000",
+    "latitude":46.216667,
+    "longitude":-63.483333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6c16"
+    },
+    "datetime":"10/10/2001 20:10",
+    "city":"vancouver (canada)",
+    "state":"bc",
+    "country":"ca",
+    "shape":"other",
+    "duration_seconds":300,
+    "duration_hours_min":"+5 minutes",
+    "comments":"I observed an green object significantly above a house with the address ((deleted)) Dunbar Street.",
+    "date posted":"12/05/2011",
+    "latitude":49.25,
+    "longitude":-123.133333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6c22"
+    },
+    "datetime":"10/10/2002 19:45",
+    "city":"victoria (canada)",
+    "state":"bc",
+    "country":"ca",
+    "shape":"unknown",
+    "duration_seconds":120,
+    "duration_hours_min":"2 minutes approx",
+    "comments":"bright white light with black outline around it moving soundlessly and slowly from north banking east and disappearing upward.",
+    "date posted":"15/10/2002",
+    "latitude":46.216667,
+    "longitude":-63.483333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6c35"
+    },
+    "datetime":"10/10/2004 03:50",
+    "city":"portage la prairie (canada)",
+    "state":"mb",
+    "country":"ca",
+    "shape":"changing",
+    "duration_seconds":1200,
+    "duration_hours_min":"20minutes",
+    "comments":"Series of Green Blue Red White lights spherical or triangular formation SE of Portage la Prairie&#44 Manitoba Canada",
+    "date posted":"27/10/2004",
+    "latitude":49.966667,
+    "longitude":-98.3
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6c48"
+    },
+    "datetime":"10/10/2004 09:45",
+    "city":"nobel (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"unknown",
+    "duration_seconds":300,
+    "duration_hours_min":"05:00",
+    "comments":"Floating Red Object",
+    "date posted":"27/10/2004",
+    "latitude":45.416667,
+    "longitude":-80.1
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6c65"
+    },
+    "datetime":"10/10/2008 02:00",
+    "city":"london (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"other",
+    "duration_seconds":120,
+    "duration_hours_min":"2 min. approx",
+    "comments":"C shape with a T front over London ont on Oct 10&#44 2008 on a clear day around 2PM",
+    "date posted":"09/06/2009",
+    "latitude":42.983333,
+    "longitude":-81.25
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6ca2"
+    },
+    "datetime":"10/10/2011 20:00",
+    "city":"hamilton (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"flash",
+    "duration_seconds":4,
+    "duration_hours_min":"2-4 seconds",
+    "comments":"Strange flash in the sky",
+    "date posted":"19/10/2011",
+    "latitude":43.25,
+    "longitude":-79.833333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6cbe"
+    },
+    "datetime":"10/10/2013 17:10",
+    "city":"ottawa (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"light",
+    "duration_seconds":10,
+    "duration_hours_min":"10 seconds",
+    "comments":"FATHER: My name is Eldon Trepanier&#44  and I assure you that the following statement is true.At approximately 5:10 pm&#44 I spotted a very b",
+    "date posted":"14/10/2013",
+    "latitude":45.416667,
+    "longitude":-75.7
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6cd7"
+    },
+    "datetime":"10/10/2013 19:15",
+    "city":"harvey station (canada)",
+    "state":"nb",
+    "country":"ca",
+    "shape":"light",
+    "duration_seconds":120,
+    "duration_hours_min":"2 minutes",
+    "comments":"Slow moving bright orange light.",
+    "date posted":"23/10/2013",
+    "latitude":45.716667,
+    "longitude":-67
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6ce5"
+    },
+    "datetime":"11/10/1999 18:00",
+    "city":"parry sound (near) (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"disk",
+    "duration_seconds":6,
+    "duration_hours_min":"6 seconds",
+    "comments":"A silvery disk shaped object&#44 flew over an aircraft&#44 then disappeared.",
+    "date posted":"22/04/2003",
+    "latitude":45.333333,
+    "longitude":-80.033333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6d4f"
+    },
+    "datetime":"11/10/2009 04:45",
+    "city":"st. john&#39s (canada)",
+    "state":"nf",
+    "country":"ca",
+    "shape":"flash",
+    "duration_seconds":5,
+    "duration_hours_min":">5 seconds",
+    "comments":"Bending streak of white light over suburban area.",
+    "date posted":"12/12/2009",
+    "latitude":47.55,
+    "longitude":-52.666667
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6d76"
+    },
+    "datetime":"11/10/2013 03:00",
+    "city":"hamilton (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"cylinder",
+    "duration_seconds":3600,
+    "duration_hours_min":"0300:0400",
+    "comments":"Enlarged still frame pics of the video show strage shapes and strange colors.",
+    "date posted":"23/10/2013",
+    "latitude":43.25,
+    "longitude":-79.833333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6d7b"
+    },
+    "datetime":"11/10/2013 16:01",
+    "city":"pickering (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"circle",
+    "duration_seconds":300,
+    "duration_hours_min":"5 minutes",
+    "comments":"Glowing blue sphere in Ontario&#44 Canada.",
+    "date posted":"30/01/2014",
+    "latitude":43.866667,
+    "longitude":-79.033333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6d8d"
+    },
+    "datetime":"11/10/2013 22:18",
+    "city":"windsor (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"light",
+    "duration_seconds":300,
+    "duration_hours_min":"3-5 minutes",
+    "comments":"5 orange lights seen in sky over windsor.",
+    "date posted":"14/10/2013",
+    "latitude":45.583333,
+    "longitude":-72
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6dac"
+    },
+    "datetime":"01/10/1966 19:00",
+    "city":"edmonton (30 mi. east of&#44 hwy 16 east) (canada)",
+    "state":"ab",
+    "country":"ca",
+    "shape":"diamond",
+    "duration_seconds":300,
+    "duration_hours_min":"5 min",
+    "comments":"Unusual ights in distance. Approached until object overhead as wide as road and ditch. Bright lights&#44 Turned head to find object in hor",
+    "date posted":"05/08/2001",
+    "latitude":53.55,
+    "longitude":-113.5
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6db5"
+    },
+    "datetime":"01/10/1970 01:00",
+    "city":"kingston (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"sphere",
+    "duration_seconds":180,
+    "duration_hours_min":"3 minutes",
+    "comments":"Sept. 1970. Kingston Ontario. Spherical grren orb. 3 minute duration. Bright green orb travelled slowly and then took off extremely qui",
+    "date posted":"11/10/2005",
+    "latitude":44.233333,
+    "longitude":-76.483333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6df2"
+    },
+    "datetime":"01/10/1987 19:00",
+    "city":"victoria (canada)",
+    "state":"bc",
+    "country":"ca",
+    "shape":"sphere",
+    "duration_seconds":900,
+    "duration_hours_min":"15mins",
+    "comments":"Large red and orange sphere&#44 balanced on a rock in 1987.",
+    "date posted":"30/10/2006",
+    "latitude":46.216667,
+    "longitude":-63.483333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6e50"
+    },
+    "datetime":"01/10/2000 09:00",
+    "city":"markham (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"cigar",
+    "duration_seconds":600,
+    "duration_hours_min":"10 min",
+    "comments":"It was some time in oct 2000.I was taking my wife to work on Markham road&#44 traveling south bound. There was a lot of traffic and lots o",
+    "date posted":"05/08/2009",
+    "latitude":43.866667,
+    "longitude":-79.266667
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6e89"
+    },
+    "datetime":"01/10/2003 02:00",
+    "city":"peterborough (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"unknown",
+    "duration_seconds":30,
+    "duration_hours_min":"15-30 seconds",
+    "comments":"GARGATUAN EXLPOSION IN THE SKY EMITS BRILLIANT BLINDING LIGHT AND EARTHQUAKE LIKE TREMORS",
+    "date posted":"04/06/2004",
+    "latitude":44.3,
+    "longitude":-78.333333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6e99"
+    },
+    "datetime":"01/10/2004 23:15",
+    "city":"saskatoon (canada)",
+    "state":"sk",
+    "country":"ca",
+    "shape":"circle",
+    "duration_seconds":7,
+    "duration_hours_min":"5-7 seconds",
+    "comments":"Very bright&#44 circular object in evening sky",
+    "date posted":"27/10/2004",
+    "latitude":52.133333,
+    "longitude":-106.666667
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6e9d"
+    },
+    "datetime":"01/10/2003 22:30",
+    "city":"quesnel (canada)",
+    "state":"bc",
+    "country":"ca",
+    "shape":"other",
+    "duration_seconds":120,
+    "duration_hours_min":"1 1/2 minutes",
+    "comments":"HBCCUFO CANADIAN REPORT:  The witness said the object was a brilliant red in color.",
+    "date posted":"15/10/2003",
+    "latitude":52.983333,
+    "longitude":-122.483333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6ec0"
+    },
+    "datetime":"01/10/2005 20:08",
+    "city":"hamilton (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"light",
+    "duration_seconds":15,
+    "duration_hours_min":"15 seconds",
+    "comments":"2 bright lights simutaneously travelling north - Hamilton Ontario Canada -",
+    "date posted":"11/10/2005",
+    "latitude":43.25,
+    "longitude":-79.833333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6f08"
+    },
+    "datetime":"01/10/2007 01:00",
+    "city":"barrie (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"circle",
+    "duration_seconds":60,
+    "duration_hours_min":"1min",
+    "comments":"the ufos went over my house  500 Lights On Object0: Yes",
+    "date posted":"28/11/2007",
+    "latitude":44.383333,
+    "longitude":-79.7
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6f10"
+    },
+    "datetime":"01/10/2007 20:00",
+    "city":"north battleford (canada)",
+    "state":"sk",
+    "country":"ca",
+    "shape":"disk",
+    "duration_seconds":60,
+    "duration_hours_min":"1 min",
+    "comments":"I was driving with my family and we looked up and seen a ufo almost directly above us.",
+    "date posted":"12/12/2009",
+    "latitude":52.766667,
+    "longitude":-108.283333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6f21"
+    },
+    "datetime":"01/10/2008 19:40",
+    "city":"delta (canada)",
+    "state":"bc",
+    "country":"ca",
+    "shape":"disk",
+    "duration_seconds":5,
+    "duration_hours_min":"5 seconds",
+    "comments":"Lighted disk stops overhead",
+    "date posted":"31/10/2008",
+    "latitude":50.183333,
+    "longitude":-98.316667
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6f49"
+    },
+    "datetime":"01/10/2010 21:00",
+    "city":"saskatoon (canada)",
+    "state":"sk",
+    "country":"ca",
+    "shape":"changing",
+    "duration_seconds":60,
+    "duration_hours_min":"30-60 seconds",
+    "comments":"hazy yellow-orange light(s) that changed shape and moved fluidly",
+    "date posted":"21/11/2010",
+    "latitude":52.133333,
+    "longitude":-106.666667
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6f51"
+    },
+    "datetime":"01/10/2011 00:53",
+    "city":"thunder bay (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"other",
+    "duration_seconds":5,
+    "duration_hours_min":"4-5 seconds",
+    "comments":"0:53 or 12:53 am EST&#44 Saturday October 1st 2011&#44 Thunder Bay&#44 ON&#44 T like figure&#44 4 seconds&#44 dim orange lights&#44 silent  500 Lights On Ob",
+    "date posted":"10/10/2011",
+    "latitude":48.4,
+    "longitude":-89.233333
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6f69"
+    },
+    "datetime":"01/10/2012 11:20",
+    "city":"welland (canada)",
+    "state":"on",
+    "country":"ca",
+    "shape":"fireball",
+    "duration_seconds":2700,
+    "duration_hours_min":"45 minutes",
+    "comments":"Groups of 2 Orange/yellow balls shot through the sky in a set path and disappeared over and over",
+    "date posted":"30/10/2012",
+    "latitude":42.983333,
+    "longitude":-79.25
+ }

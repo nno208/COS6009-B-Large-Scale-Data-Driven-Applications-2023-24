@@ -1,0 +1,391 @@
+{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6bc2"
+    },
+    "datetime":"10/10/1965 21:00",
+    "city":"penarth (uk/wales)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":180,
+    "duration_hours_min":"about 3 mins",
+    "comments":"penarth uk  circle  3mins  stayed 30ft above me for 3 mins slowly moved of and then with the blink of the eye the speed was unreal",
+    "date posted":"14/02/2006",
+    "latitude":51.434722,
+    "longitude":-3.18
+ }{
+    "_id":{
+       "$oid":"658c638118dd9a4364fe6bfb"
+    },
+    "datetime":"10/10/1955 17:00",
+    "city":"chester (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":20,
+    "duration_hours_min":"20 seconds",
+    "comments":"Green/Orange circular disc over Chester&#44 England",
+    "date posted":"21/01/2008",
+    "latitude":53.2,
+    "longitude":-2.916667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe70fd"
+    },
+    "datetime":"13/10/2007 22:30",
+    "city":"kirkcaldy (uk/scotland)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":600,
+    "duration_hours_min":"10 mins +",
+    "comments":"semi-transparent big wheel like object. spinning in a stationery possition for about 10 miutes",
+    "date posted":"28/11/2007",
+    "latitude":56.116667,
+    "longitude":-3.166667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe7146"
+    },
+    "datetime":"13/10/2012 20:30",
+    "city":"glasgow (uk/scotland)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":300,
+    "duration_hours_min":"5 minutes",
+    "comments":"Strange Orange Orb over Glasgow&#44 Scotland&#44 UK",
+    "date posted":"30/10/2012",
+    "latitude":55.833333,
+    "longitude":-4.25
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe72f5"
+    },
+    "datetime":"15/10/1988 19:30",
+    "city":"london (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":240,
+    "duration_hours_min":"4 minutes",
+    "comments":"Too big to be a balloon - i haven&#39t been able to completely forget it.  Would really like an explanation.",
+    "date posted":"05/08/2001",
+    "latitude":51.514125,
+    "longitude":-0.093689
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe75d7"
+    },
+    "datetime":"17/10/2008 22:00",
+    "city":"bracknell (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":5,
+    "duration_hours_min":"5 seconds",
+    "comments":"blue/white light moving away quickly",
+    "date posted":"10/01/2009",
+    "latitude":51.416667,
+    "longitude":-0.75
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe7c3a"
+    },
+    "datetime":"24/10/2002 11:00",
+    "city":"rotherham (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":2400,
+    "duration_hours_min":"40 minutes",
+    "comments":"Round whitish reflective ufo followed by military helicopter not long after sighting",
+    "date posted":"20/11/2002",
+    "latitude":53.433333,
+    "longitude":-1.35
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe7c95"
+    },
+    "datetime":"25/10/2008 00:00",
+    "city":"salford (manchester) (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":60,
+    "duration_hours_min":"1 min",
+    "comments":"Something weird in the sky.  ((NUFORC Note:  Water droplet on lens of camera.  PD))",
+    "date posted":"31/10/2008",
+    "latitude":52.033333,
+    "longitude":-0.633333
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8161"
+    },
+    "datetime":"30/10/2008 19:40",
+    "city":"aberdeen (uk/scotland)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":300,
+    "duration_hours_min":"5mins",
+    "comments":"3 stationary orange lights above city of Aberdeen",
+    "date posted":"10/01/2009",
+    "latitude":57.166667,
+    "longitude":-2.666667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe816a"
+    },
+    "datetime":"30/10/2009 20:59",
+    "city":"heswall (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":60,
+    "duration_hours_min":"1 min",
+    "comments":"Strange single light that moved slowly but erratically",
+    "date posted":"12/12/2009",
+    "latitude":53.316667,
+    "longitude":-3.1
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8185"
+    },
+    "datetime":"30/10/2011 18:47",
+    "city":"london (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":180,
+    "duration_hours_min":"3mins",
+    "comments":"Huge white circular object with flashing light on base and possible red lights either side",
+    "date posted":"12/12/2011",
+    "latitude":51.514125,
+    "longitude":-0.093689
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe845d"
+    },
+    "datetime":"04/10/2006 18:30",
+    "city":"sunderland (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":40,
+    "duration_hours_min":"40 seconds",
+    "comments":"Strange orange object spotted and photographed over Durham&#44 England",
+    "date posted":"30/10/2006",
+    "latitude":54.911944,
+    "longitude":-1.383333
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8529"
+    },
+    "datetime":"05/10/2008 18:24",
+    "city":"aberdeen (uk/scotland)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":120,
+    "duration_hours_min":"2 minutes",
+    "comments":"Bright orange round light moving over city",
+    "date posted":"10/01/2009",
+    "latitude":57.166667,
+    "longitude":-2.666667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe85fb"
+    },
+    "datetime":"06/10/2007 21:30",
+    "city":"uckfield (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":600,
+    "duration_hours_min":"10 minutes",
+    "comments":"HOVERING ORB LIKE LIGHTS YELLOW/ORANGE UCKFIELD EAST SUSSEX",
+    "date posted":"08/10/2007",
+    "latitude":50.966667,
+    "longitude":0.1
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8684"
+    },
+    "datetime":"07/10/2002 16:53",
+    "city":"huddersfield (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":120,
+    "duration_hours_min":"around 2 mins",
+    "comments":"Dark coloured round disc",
+    "date posted":"15/10/2002",
+    "latitude":53.65,
+    "longitude":-1.783333
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe88ba"
+    },
+    "datetime":"10/01/1998 18:00",
+    "city":"london (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":240,
+    "duration_hours_min":"4 mins",
+    "comments":"Large orange ball of light over London late 1990&#39s",
+    "date posted":"29/09/2004",
+    "latitude":51.514125,
+    "longitude":-0.093689
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe88e1"
+    },
+    "datetime":"10/01/2002 17:25",
+    "city":"nottingham (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":3,
+    "duration_hours_min":"3 seconds",
+    "comments":"A blue/green round object that moved very fast but silently left to right from one cloud across a gap in sky to next cloud",
+    "date posted":"29/01/2002",
+    "latitude":52.966667,
+    "longitude":-1.166667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8939"
+    },
+    "datetime":"10/01/2009 22:00",
+    "city":"bath (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":2,
+    "duration_hours_min":"seconds",
+    "comments":"Orange balls of light",
+    "date posted":"10/01/2009",
+    "latitude":51.379444,
+    "longitude":-2.365556
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8b1f"
+    },
+    "datetime":"11/11/2012 19:30",
+    "city":"macclesfield (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":60,
+    "duration_hours_min":"60 seconds",
+    "comments":"Bright orange ball of light approaching fast from South toward Macclesfield&#44 UK.",
+    "date posted":"19/11/2012",
+    "latitude":53.25,
+    "longitude":-2.116667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8c63"
+    },
+    "datetime":"01/11/2005 22:20",
+    "city":"leicester (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":10,
+    "duration_hours_min":"10 seconds",
+    "comments":"low flying&#44 below cloud level&#44  large&#44 very clearsighting&#44 round&#44 covered in lights no noise moving about the same speed as a plane",
+    "date posted":"03/11/2005",
+    "latitude":52.664913,
+    "longitude":-1.034894
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8ca6"
+    },
+    "datetime":"01/11/2008 21:20",
+    "city":"glenrothes (uk/scotland)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":240,
+    "duration_hours_min":"4 minutes",
+    "comments":"UFO IN SCOTLAND&#44 UK",
+    "date posted":"10/01/2009",
+    "latitude":56.2,
+    "longitude":-3.183333
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8d97"
+    },
+    "datetime":"12/11/2002 23:00",
+    "city":"lincolnshire (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":900,
+    "duration_hours_min":"15 minutes",
+    "comments":"I saw a bright sec of light bobbing up and down in the night sky at around 11.00p.m",
+    "date posted":"23/12/2002",
+    "latitude":53.166667,
+    "longitude":-0.25
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe8f99"
+    },
+    "datetime":"14/11/2008 22:00",
+    "city":"birmingham (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":180,
+    "duration_hours_min":"3 minutes",
+    "comments":"Was a circular shape with the lights goin acorss the centre of it flying over Birmingham&#44 England",
+    "date posted":"05/08/2009",
+    "latitude":52.466667,
+    "longitude":-1.916667
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe90d9"
+    },
+    "datetime":"15/11/2004 22:00",
+    "city":"london (uk/england)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":180,
+    "duration_hours_min":"3 mins",
+    "comments":"Me and a friend saw a sphere with a blue light hovering&#44 a jet then followed it and chased it away. I heard modem connection sounds",
+    "date posted":"02/09/2005",
+    "latitude":51.514125,
+    "longitude":-0.093689
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe9380"
+    },
+    "datetime":"17/11/2006 18:25",
+    "city":"trowbridge (uk/england)",
+    "state":"wv",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":600,
+    "duration_hours_min":"10minutes",
+    "comments":"U.F.O.sighting in Wiltshire",
+    "date posted":"07/12/2006",
+    "latitude":51.318889,
+    "longitude":-2.208611
+ }{
+    "_id":{
+       "$oid":"658c638218dd9a4364fe93f4"
+    },
+    "datetime":"17/11/2012 21:00",
+    "city":"cumnock (uk/scotland)",
+    "state":"NULL",
+    "country":"gb",
+    "shape":"circle",
+    "duration_seconds":1800,
+    "duration_hours_min":"30 minutes",
+    "comments":"Weird lights going from west to east in Ayrshire scotland",
+    "date posted":"19/11/2012",
+    "latitude":55.45,
+    "longitude":-4.266667
+ }
